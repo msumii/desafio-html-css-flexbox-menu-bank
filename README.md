@@ -5,7 +5,7 @@
 
 ## Por que fiz esse projeto? 🤔
 
-Nesses últimos dias entre 23 de Janeiro até hoje dia 25 de Janeiro, comecei a estudar o Flexbox do CSS, queria por em prática o que eu aprendi dessa propriedade, fazendo assim um layout de um menu, baseado no banco Santander sendo ele feito apenas com Flexbox e deixando ele responsivo com uma versão para dispositivos móveis.
+Nesses últimos dias entre 23 de Janeiro até hoje dia 25 de Janeiro, comecei a estudar o Flexbox do CSS, queria por em prática o que eu aprendi desse conceito, fazendo assim um layout de um menu, baseado no banco Santander sendo ele feito apenas com Flexbox e deixando ele responsivo com uma versão para dispositivos móveis.
 
 ## Quais as propriedades que eu utilizei do Flexbox? 🖥
 
